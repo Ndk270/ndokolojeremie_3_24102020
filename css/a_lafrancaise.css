@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0 ;
+    padding: 0;
+  }
+  
+  body {
+    margin: auto;
+    width: 100%;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  
+  }
+
+  /*****DEBUT HEADER*****/
+  header {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+  }
+  
+  header .logo img {
+    width: 40%;
+    padding-top: 2.5vh;
+  }
+  
+  .arrow{
+    padding-top: 3vh;
+    margin: 0 0 0rem 5%;
+  }
+ /*****FIN HEADER*****/
+
+ /*****DEBUT NAV*****/
+  nav img{
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+  }
+
+ /*****FIN NAV*****/
