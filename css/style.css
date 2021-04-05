@@ -84,6 +84,11 @@ button {
 
 }
 
+button:hover {
+ 
+  background: linear-gradient(#ff51ce, #6b18d2);
+}
+
 /*.reservation_header .explore{
   padding: 15px;
   border-radius: 30px 30px 30px 30px;
