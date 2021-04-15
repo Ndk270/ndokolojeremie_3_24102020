@@ -269,9 +269,8 @@ main {
 }
 .heart1 .full_heart {
   background: linear-gradient(to left top, #9356dc, #b35cdc, #cf64dc, #e86edb, #ff79da);
-  background-clip: text;
--webkit-background-clip: text;
-color: transparent;
+ -webkit-background-clip: text;
+ color: transparent;
   height: 30px;
   padding-top: 6px;
   font-size: 26px;
@@ -348,7 +347,6 @@ footer h4 {
   /*****DEBUT HEADER*****/
   header {
     text-align: center;
-
   }
 
   header img {
